@@ -1,9 +1,8 @@
 # Installation
 ### Download and change folder
 ```
-cd ~
-git clone https://github.com/vdarkobar/dotfiles.git
-
+cd ~ \
+git clone https://github.com/vdarkobar/dotfiles.git \
 cd dotfiles
 ```
 ### Run install
