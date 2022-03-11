@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="https://github.com/vdarkobar/Home-Cloud/blob/main/shared/Bastion.md">Bastion</a> | <a href="https://github.com/vdarkobar/Home-Cloud/blob/main/shared/Debian.md">Debian Server Template</a>
+  <a href="https://github.com/vdarkobar/Home-Cloud#self-hosted-cloud">Home</a> | <a href="https://github.com/vdarkobar/Home-Cloud/blob/main/shared/Bastion.md">Bastion</a> | <a href="https://github.com/vdarkobar/Home-Cloud/blob/main/shared/Debian.md">Debian Server Template</a>
 </p>  
   
 # Installation
