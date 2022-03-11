@@ -17,10 +17,6 @@ chmod +x install.sh && chmod +x uninstall.sh && \
 
 ### Change to dotfiles folder
 ```
-cd ~/dotfiles
-```
-
-### Run uninstaller
-```
+cd ~/dotfiles && \
 ./uninstall.sh
 ```
