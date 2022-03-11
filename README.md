@@ -8,7 +8,7 @@
 cd ~ && \
 git clone https://github.com/vdarkobar/dotfiles.git && \
 cd dotfiles && \
-chmod +x setup.sh && \
+chmod +x install.sh && \
 ./install.sh
 ```
   
