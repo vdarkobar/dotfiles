@@ -9,13 +9,9 @@ cd ~ && \
 git clone https://github.com/vdarkobar/dotfiles.git && \
 cd dotfiles && \
 chmod +x setup.sh && \
-./setup.sh
-```
-### Run install
-```
 ./install.sh
 ```
-
+  
 # Uninstallation
 
 ### Change to dotfiles folder
