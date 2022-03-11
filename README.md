@@ -1,3 +1,7 @@
+<p align="left">
+  <a href="https://github.com/vdarkobar/Home-Cloud#self-hosted-cloud">Home</a>
+</p>  
+  
 # Installation
 ### Download and change folder
 ```
