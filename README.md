@@ -13,6 +13,8 @@ chmod +x install.sh && chmod +x uninstall.sh && \
 ./install.sh
 ```
   
+### Run:  `exec bash`
+  
 # Uninstallation
 
 ### Change to dotfiles folder
