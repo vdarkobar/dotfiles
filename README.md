@@ -13,7 +13,10 @@ chmod +x install.sh && chmod +x uninstall.sh && \
 ./install.sh
 ```
   
-### Run:  `exec bash`
+### Run:
+```
+exec bash
+```
   
 # Uninstallation
 
